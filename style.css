@@ -1,0 +1,140 @@
+body{
+    background-image: url(ko.jpg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.connect{
+    background-color: rgba(31, 28, 24, 0.317);
+    width: 500px;
+    border-radius: 15px;
+    margin: auto;
+    font-size:20px;
+    padding: 10px 40px 30px;
+   
+    
+}
+
+h1,p{
+    text-align: center;
+}
+
+.connect label{
+    display: block;
+}
+
+.submit-btn{
+    display: block;
+    margin: 10px auto;
+    width: 200px;
+    padding: 10px 5px;
+    border-radius: 8px;
+    background-color: burlywood;
+    border-style: solid;
+}
+
+
+ 
+.side input{
+    width: 100%;
+    font-size: 1em;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 5px 10px;
+    border: 1px solid ;
+    box-sizing: border-box;
+    margin: 5px 0px 30px;
+    
+    
+}
+
+.line select{
+ width: 100%;
+ font-size: 1em;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 5px 10px;
+    margin: 10px 0px 30px;
+    
+}
+
+
+.container label {
+    display: block;
+    margin-right: 10px; 
+    margin-bottom: 30px;
+    
+}
+
+   
+.container-input select{
+    width: 100%;
+    font-size: 1em;
+       border: 1px solid black;
+       border-radius: 6px;
+       padding: 5px 10px;
+       margin: 10px 0px 30px;
+       
+}
+
+.suggestions-input input {
+    width: 80%;
+    height: 100px;
+       border: 1px solid black;
+       border-radius: 6px;
+       padding: 0px 10px;
+       
+    
+}
+
+.like-input label{
+    display: block;
+    margin-bottom: 10px;
+    margin-bottom: 30px;
+
+}
+ .radio-testing{
+    margin-bottom: 30px;
+ }
+
+.suggestions-input textarea{
+    margin-top: 15px;
+    padding: 10px 30px 100px;
+    width: 100%;
+    box-sizing: border-box;
+   
+    
+}
+
+input:focus{
+    background-color: burlywood;
+}
+
+.container input{
+    accent-color: burlywood;
+    transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+
+}
+
+.like-input input{
+    accent-color: burlywood;
+    transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+
+}
+
+textarea:focus{
+    background-color: burlywood;
+}
+
+
+
+
+
+
+
+
+
